@@ -21,6 +21,10 @@ Analiza el sentimiento de un texto. Se puede usar para analizar el sentimiento d
 
 Clon del chat GPT
 
+## Archivo 07_whisper.ipynb
+
+Contiene un ejemplo de whisper transcribiendo y otro traduciendo
+
 ## Archivo 01_openai_auth.ipynb
 
 Contiene algunos ejemplos
